@@ -3,5 +3,9 @@ vocados
 * 2 tsp salt
 * 1/2 onion
 *jjjjjjj
+<<<<<<< HEAD
 *  cccccaaaa
 * reduce
+=======
+* less salt
+>>>>>>> less-salt
