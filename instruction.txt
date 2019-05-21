@@ -5,13 +5,10 @@
 * and mix well
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 *enjoy
 *mmmmm
 *nnnnn
 *vvvvv
-=======
->>>>>>> parent of 94b1066...  add enjoy
 =======
 >>>>>>> parent of 94b1066...  add enjoy
 =======
